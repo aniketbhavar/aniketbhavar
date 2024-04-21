@@ -14,7 +14,6 @@
 
 - 💬 Ask me about **Data Science, NLP, Generative AI, and Machine Learning | Proficient in ML/DL Basics and Dataset Handling**
 
-- 📫 How to reach me **aniketbhavar0601@gmail.com**
 
 - ⚡ Fun fact **I once tried to analyze the humor in jokes using data science techniques, but the results were no laughing matter!**
 
