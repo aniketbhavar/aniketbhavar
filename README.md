@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **'Fine-tune LLMs & Build Your Application' project at iNeuron.ai.**
+- 🔭 I’m currently working on **'Fine-tune LLMs & Build Your Application' project.**
 
 - 🌱 I’m currently learning **Generative AI, Natural Language Processing (NLP), and Data Science**
 
 - 📝 I regularly write blog on Generative AI [https://medium.com/@aniketbhavar0601](https://medium.com/@aniketbhavar0601)
 
-- 💬 Ask me about **Data Science, NLP, Generative AI, and Machine Learning | Proficient in ML/DL Basics and Dataset Handling**
+- 💬 Ask me anything about **Data Science, NLP, Generative AI, and Machine Learning (ML/DL) Basics and Dataset Handling**
 
 
 - ⚡ Fun fact **I once tried to analyze the humor in jokes using data science techniques, but the results were no laughing matter!**
